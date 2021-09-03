@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="shortcut icon" type="png" href="images/icon/favicon.png">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Comaptible" content="IE=edge">
+	<title>Edu-Acad</title>
+	<meta name="desciption" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+	<style>
+		.fa {
+			padding: 20px;
+			font-size: 30px;
+			width: 70px;
+			text-align: center;
+			text-decoration: none;
+            margin: 5px  ;
+			border-radius: 50%;
+			align-items: center;
+		}
+
+		.fa:hover {
+			opacity: 0.7;
+		}
+
+		.fa-linkedin {
+			background: #007bb5;
+			color: white;
+
+		}
+		.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #ac2bac;
+  color: white;
+
+}
+#btnScrollToTop{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #55ACEE;
+  box-shadow: 0 0 10px rgba(0,0 green,0 blue,0.25 alpha);
+  columns: #ffffff;
+  outline: none;
+  cursor: pointer;
+}
+#btnScrollToTop:active{
+	background: royalblue;
+}
+
+	</style>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="script.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<script>
+		$(window).on('scroll', function () {
+			if ($(window).scrollTop()) {
+				$('nav').addClass('black');
+			} else {
+				$('nav').removeClass('black');
+			}
+		})
+	</script>
+</head>
+
+<body>
+	<!-- Navigation Bar -->
+	<header id="header">
+		<nav>
+			<div class="logo"><img src="images/icon/logo.png" alt="logo"></div>
+			<ul>
+				<li><a class="active" href="#head">Home</a></li>
+                
+				<li><a  href="#about_section">About</a></li>
+				<li><a href="#team_section">Team</a></li>
+				<li><a href="#services_section">Services</a></li>
+				<li><a href="#contactus_section">Contact</a></li>
+			</ul>
+			<!-- <div class="srch"><input type="text" class="search" placeholder="Search here" style="color: #fff;"><img
+					src="images/icon/search.png" alt="search" onclick=slide()></div> -->
+					
+			<a class="get-started" href="login.html">Get Started</a>
+			<img src="images/icon/menu.png" class="menu" onclick="sideMenu(0)" alt="menu">
+		</nav>
+		<div class="head-container" id="head">
+			<div class="quote">
+				<p>Education is the most powerful weapon which you can use to change the world</p>
+				<h2>Education is the process of learning and sharing it. It includes meeting students to
+					opportunities.We help students across different domains to grab valuable opportunities.</h2>
+
+			</div>
+			<div class="svg-image">
+				<img src="images/icon/front page.PNG" alt="svg">
+			</div>
+		</div>
+		<div class="side-menu" id="side-menu">
+			<div class="close" onclick="sideMenu(1)"><img src="images/icon/close.png" alt=""></div>
+		
+			<ul>
+				<li><a  href="#head">Home</a></li>
+				<li><a href="#Subjects">Subjects</a></li>
+                <li><a href="#about_section">About</a></li>
+				<li><a href="#team_section">Team</a></li>
+				<li><a href="#services_section">Services</a></li>
+				<li><a href="#contactus_section">Contact</a></li>
+				<li><a href="#feedBACK">Feedback</a></li>
+			</ul>
+		</div>
+	</header>
+
+
+	<!-- Some Popular Subjects -->
+	<div class="title" id="Subjects">
+		<span> Subjects </span>
+	</div>
+	<br><br>
+	<div class="course">
+
+    <div class="cbox">
+		<div class="det"><a href="subjects/computer_courses.html"><img src="images/courses/computer-courses.png">Computer Courses</a></div>
+		<div class="det"><a href="subjects/computer_courses.html#data"><img src="images/courses/data.png">Data
+				Structures</a></div>
+		<div class="det"><a href="subjects/computer_courses.html#algo"><img src="images/courses/algorithm.png">Algorithm</a></div>
+	</div>
+	</div>
+
+
+	<!-- ABOUT -->
+	<div class="diffSection" id="about_section">
+		<center>
+			<p style="font-size: 50px; padding: 100px">About</p>
+		</center>
+		<div class="about-content">
+			<div class="side-image">
+				<img class="sideImage" src="images/extra/e3.jpg">
+			</div>
+			<div class="side-text">
+				<h2>What you think about us ?</h2>
+				<p>Education is the process of learning and sharing. We, as an education platform provides recourses and
+					abundant opportunities to students in almost every field from digital marketing to machine learning.
+					We help that there is no more powerful tool than education. Education is the only weapon that can
+					bring change in society. With this thought, we provide free resources and guide students across the
+					platforms. Through this, we can make learning more easier and in an interesting way.</p>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- TEAM -->
+	<div class="diffSection" id="team_section">
+		<center>
+			<p style="font-size: 50px; padding-top: 100px; padding-bottom: 60px;">Members</p>
+		</center>
+		<div class="totalcard">
+			<div class="card">
+				<center><img src="images/creator/Shivani.jpeg"></center>
+				<center>
+					<div class="card-title">Shivani Singh</div>
+				
+					<div id="detail">
+                    <a href="https://www.linkedin.com/in/shivani-singh-503876205//" target="_blank"
+							class="fa fa-linkedin"></a>
+						
+					
+					</div>
+				</center>
+			</div>
+			<div class="card">
+				<center><img src="images/creator/Priya.jpeg"></center>
+				<center>
+					<div class="card-title">Priya Kumari</div>
+					<div id="detail">
+
+						
+						<a href="https://www.linkedin.com/in/priya-kumari-32792a1bb" target="_blank" class="fa fa-linkedin"></a>
+					</div>
+				</center>
+			</div>
+
+			<div class="card">
+				<center><img src="images/creator/Aditi.jpeg"></center>
+				<center>
+					<div class="card-title">Aditi Jha</div>
+					<div id="detail">
+
+						
+						<a href="https://www.linkedin.com/in/aditi-j-620a16196/" target="_blank" class="fa fa-linkedin"></a>
+					</div>
+				</center>
+			</div>
+			<div class="card">
+				<center><img src="images/creator/Ayushi.jpeg"></center>
+				<center>
+					<div class="card-title">Ayushi</div>
+					<div id="detail">
+
+						
+						<a href="https://www.linkedin.com/in/ayushi-gupta18/" target="_blank" class="fa fa-linkedin"></a>
+					</div>
+				</center>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- SERVICES -->
+	<div class="service-swipe">
+		<div class="diffSection" id="services_section">
+			<center>
+				<p style="font-size: 50px; padding: 100px; padding-bottom: 40px; color: #fff;">Services</p>
+			</center>
+		</div>
+		<a href="subjects/computer_courses.html">
+			<div class="s-card"><img src="images/icon/computer-courses.png">
+				<p>Free Online Computer Courses</p>
+			</div>
+		</a>
+		<a href="">
+			<div class="s-card"><img src="images/icon/brainbooster.png">
+				<p>Building Concepts for  Exams</p>
+			</div>
+		</a>
+		<a href="#">
+			<div class="s-card"><img src="images/icon/online-tutorials.png">
+				<p>Online Video Lectures</p>
+			</div>
+		</a>
+		
+		<a href="#">
+			<div class="s-card"><img src="images/icon/p3.png">
+				<p>Performance and Ranking Report</p>
+			</div>
+		</a>
+		<a href="#contactus_section">
+			<div class="s-card"><img src="images/icon/discussion.png">
+				<p>Discussion with Our Tutors & Mentors</p>
+			</div>
+		</a>
+		
+		<a href="#contactus_section">
+			<div class="s-card"><img src="images/icon/help.png">
+				<p>24x7 Online Support</p>
+			</div>
+		</a>
+	</div>
+
+
+
+	<!-- CONTACT US -->
+	<div class="diffSection" id="contactus_section">
+		<center>
+			<p style="font-size: 50px; padding: 100px">Contact Us</p>
+		</center>
+		<div class="csec"></div>
+		<div class="back-contact">
+			<div class="cc">
+				<form action="mailto:roshank9419@gmail.com" method="post" enctype="text/plain">
+					<label>First Name <span class="imp">*</span></label><label style="margin-left: 185px">Last Name
+						<span class="imp">*</span></label><br>
+					<center>
+						<input type="text" name="" style="margin-right: 10px; width: 175px" required="required"><input
+							type="text" name="lname" style="width: 175px" required="required"><br>
+					</center>
+					<label>Email <span class="imp">*</span></label><br>
+					<input type="email" name="mail" style="width: 100%" required="required"><br>
+					<label>Message <span class="imp">*</span></label><br>
+					<input type="text" name="message" style="width: 100%" required="required"><br>
+					<label>Additional Details</label><br>
+					<textarea name="addtional"></textarea><br>
+					<button type="submit" id="csubmit">Send Message</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- FEEDBACK -->
+	<div class="title2" id="feedBACK">
+		<span>Give Feedback</span>
+		<div class="shortdesc2">
+			<p>Please share your valuable feedback to us</p>
+		</div>
+	</div>
+
+	<div class="feedbox">
+		<div class="feed">
+			<form action="mailto:kumaripriya120702@gmail.com" method="post" enctype="text/plain">
+				<label>Your Name</label><br>
+				<input type="text" name="" class="fname" required="required"><br>
+				<label>Email</label><br>
+				<input type="email" name="mail" required="required"><br>
+				<label>Additional Details</label><br>
+				<textarea name="addtional"></textarea><br>
+				<button type="submit" id="csubmit">Send Message</button>
+			</form>
+		</div>
+	</div>
+
+
+	<!-- FOOTER -->
+	<footer>
+		<div class="footer-container">
+			<div class="left-col">
+				
+				<div class="social-media">
+					
+					<a href="#"><i class="fa fa-linkedin" ></i></a>
+					<a href="#"><i class="fa fa-facebook" ></i></a>
+					<a href="#"><i class="fa fa-twitter" ></i></a>
+					<a href="#"><i class="fa fa-instagram" ></i></a>
+					
+				</div><br><br>
+                
+				<p><img src="images/icon/phone.png"> +917689455464<br><img src="images/icon/mail.png">&nbsp;
+					success365@gmail.com</p>
+			</div>
+			<div class="right-col">
+				<h1 style="color: #fff">Our Newsletter</h1>
+				<div class="border"></div><br>
+				<p>Enter Your Email to get our News and updates.</p>
+				<form class="newsletter-form">
+					<input class="txtb" type="email" placeholder="Enter Your Email">
+					<input class="btn" type="submit" value="Submit">
+				</form>
+			</div>
+		</div>
+	</footer>
+<!-- Button -->
+<!-- <button id="btnScrollToTop">
+	<i class="material-icons">arrow_upward</i>
+</button> -->
+<script>
+	const btnScrollToTop = document.querySelector("#btnScrollToTop");
+	btnScrollToTop.addEventListener("click",function(){
+		window.scrollTo({
+			top:0,
+			left:0,
+			behavior:"smooth"
+		});
+	});
+</script>
+</body>
+
+</html>
