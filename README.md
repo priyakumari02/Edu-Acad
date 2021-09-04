@@ -39,8 +39,8 @@ We faced many issues after the completion of the project like responsiveness and
 # Accomplishments that we are most proud of
 We are most proud of our team work and development strategy.
 
-# Our learning from this project-
+# Our learnings from this project-
 * We learnt to work in a team
-* We learn many new concepts that we never used before
+* We learnt many new concepts that we never used before
 
 
