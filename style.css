@@ -126,7 +126,7 @@ a, button {
 	width: 600px;
 	transform: translateY(-50px);
 }
-.quote h4 {
+.quote h5 {
 	margin-top: 20px;
 	color: #0009;
 	line-height: 20px;
@@ -734,7 +734,7 @@ footer .btn:hover {
 		/* position: fixed; */
 		/* top: 0; */
 	}
-	.quote p, .quote h4, .play {
+	.quote p, .quote h5, .play {
 		justify-content: center;
 		text-align: center;
 	}
