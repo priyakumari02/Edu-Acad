@@ -26,9 +26,11 @@ HTML, CSS, JavaScript
 # Here are some glimpses of our project both in desktop as well as mobile view
 
 Desktop view-
+![Screenshot (135)](https://user-images.githubusercontent.com/77202746/132097287-028dbbed-5270-4906-999f-9653c6e79be8.png)
 
 
 Mobile view-
+![Screenshot_20210904-192459_Chrome](https://user-images.githubusercontent.com/77202746/132097327-3295adcf-651a-487e-b358-bde73077e4e8.jpg)
 
 
 # Participation of each member in this project
