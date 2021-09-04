@@ -27,16 +27,16 @@ HTML, CSS, JavaScript
 We made the video and PPT altogether. The project idea was given by each and every member.
 1. Ayushi Gupta- developed strategy, design and fixed various isses that we faced
 2. Priya Kumari- developed all the section of project and fixed various issues
-3. Shivani Singh- desined the project, gathered graphics and fixed various issues
+3. Shivani Singh- designed the project, gathered graphics and fixed various issues
 4. Aditi Jha- designed logo, content, and fixed issues
 
 # Our inspiration behind this project-
-We decided to provide students with free and quality recouces from where they can get everything. Our inspiration is that many students don't have proper and useful resouces to kickstant their career. We provide them with oppurtunities and valid resources. 
+We decided to provide students with free and quality recouces from where they can get everything. Our inspiration is that many students don't have proper and useful resouces to kickstart their career. We provide them with oppurtunities and valid resources. 
 
-# Challenges that we run into
-We faced many issues after the completetion of the project like responsiveness and designing issues. It took much time to fix all those issues that we faced.
+# Challenges that we ran into
+We faced many issues after the completion of the project like responsiveness and designing issues. It took much time to fix all those issues that we faced.
 
-# Accompleshments that we are most proud of
+# Accomplishments that we are most proud of
 We are most proud of our team work and development strategy.
 
 # Our learning from this project-
