@@ -1,5 +1,7 @@
 # Project Name- Edu-Acad
 
+# Hackathon- Hack-O-Uplift
+
 # Our Aim
 Education is the process of learning and sharing. We, as an education platform provides recourses and abundant opportunities to students in almost every field from digital marketing to machine learning. We help that there is no more powerful tool than education. Education is the only weapon that can bring change in society. With this thought, we provide free resources and guide students across the platforms. Through this, we can make learning more easier and in an interesting way. We have made this website completely responsive so that students can easily view it on any screen.
 
@@ -7,9 +9,7 @@ Education is the process of learning and sharing. We, as an education platform p
 1. Priya Kumari- priyakumari02
 2. Aditi Jha- aditi944
 3. Shivani Singh- shivani0701
-
-
-# Hackathon- Hack-O-Uplift 
+4. Ayushi Gupta- 
 
 # Tools that we used- VS code
 We used VS code to develop the project
@@ -22,6 +22,14 @@ https://edu-acad.netlify.app/
 
 # Tech stacks that we used
 HTML, CSS, JavaScript
+
+# Here are some glimpses of our project both in desktop as well as mobile view
+
+Desktop view-
+
+
+Mobile view-
+
 
 # Participation of each member in this project
 We made the video and PPT altogether. The project idea was given by each and every member.
