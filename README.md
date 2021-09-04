@@ -30,7 +30,7 @@ Desktop view-
 
 
 Mobile view-
-![Screenshot_20210904-192459_Chrome](https://user-images.githubusercontent.com/77202746/132097327-3295adcf-651a-487e-b358-bde73077e4e8.jpg)
+![Screenshot_20210904-192459_Chrome](https://user-images.githubusercontent.com/77202746/132097327-3295adcf-651a-487e-b358-bde73077e4e8.jpg | width=300 height=600)
 
 
 # Participation of each member in this project
