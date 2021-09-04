@@ -7,7 +7,7 @@ Education is the process of learning and sharing. We, as an education platform p
 1. Priya Kumari- priyakumari02
 2. Aditi Jha- aditi944
 3. Shivani Singh- shivani0701
-4. Ayushi Gupta-
+
 
 # Hackathon- Hack-O-Uplift 
 
