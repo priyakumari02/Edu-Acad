@@ -4,10 +4,10 @@
 Education is the process of learning and sharing. We, as an education platform provides recourses and abundant opportunities to students in almost every field from digital marketing to machine learning. We help that there is no more powerful tool than education. Education is the only weapon that can bring change in society. With this thought, we provide free resources and guide students across the platforms. Through this, we can make learning more easier and in an interesting way. We have made this website completely responsive so that students can easily view it on any screen.
 
 # Project Members-
-Priya Kumari- priyakumari02
-Aditi Jha- aditi944
-Shivani Singh- shivani0701
-Ayushi Gupta-
+1. Priya Kumari- priyakumari02
+2. Aditi Jha- aditi944
+3. Shivani Singh- shivani0701
+4. Ayushi Gupta-
 
 # Hackathon- Hack-O-Uplift 
 
