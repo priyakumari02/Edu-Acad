@@ -19,6 +19,8 @@ We deployed our website on netlify so that it can easily be viewed.
 
 # To view our project live, click on the link below
 https://edu-acad.netlify.app/
+or
+https://priyakumari02.github.io/Edu-Acad/
 
 # Tech stacks that we used
 HTML, CSS, JavaScript
